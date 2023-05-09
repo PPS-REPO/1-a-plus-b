@@ -9,8 +9,28 @@
         "time": 1000,
         "memory": 134217728,
         "factor": {
+            "c11": {
+                "time": 1000,
+                "memory": 134217728
+            },
+            "c99": {
+                "time": 1000,
+                "memory": 134217728
+            },
+            "cpp11": {
+                "time": 1000,
+                "memory": 134217728
+            },
+            "cpp17": {
+                "time": 1000,
+                "memory": 134217728
+            },
+            "java8": {
+                "time": 1000,
+                "memory": 134217728
+            },
             "py3": {
-                "time": 0,
+                "time": 1000,
                 "memory": 268435456
             }
         }
@@ -130,5 +150,6 @@
     "versions": {
         "config": 1,
         "repository": 1
-    }
+    },
+    "deploy_uuid": "04a61514-5838-4961-a31a-77a883d4334e"
 }
