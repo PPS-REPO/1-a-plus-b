@@ -1,12 +1,12 @@
 # Problem
 
-You are given two integers a and b.
+You are given two integers $a$ and $b$.
 
-Print a + b.
+Print $a + b$.
 
 # Input
 
-The first line of input contains two integers a and b separated by a space.
+The first line of input contains two integers $a$ and $b$ separated by a space.
 
 * 1 ≤ a ≤ 9
 * 1 ≤ b ≤ 9
