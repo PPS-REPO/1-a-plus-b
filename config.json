@@ -9,10 +9,6 @@
         "time": 1000,
         "memory": 134217728,
         "factor": {
-            "pypy3": {
-                "time": 5000,
-                "memory": 0
-            },
             "py3": {
                 "time": 0,
                 "memory": 268435456
